@@ -8,4 +8,4 @@ I have taken data from Kaggle named "Emergency - 911" Calls I have imported the 
 I have created some columns like 'Reason' and 'Hour' etc. in my file by extracting data from the already given columns.
 
 # Outputs
-I have outputs based on the questions given to me by my udemy instructor.
+I have outputs based on the questions given to me by my udemy instructor. Please check my outputs and other work in this file "First Capstone Project.ipynb"
